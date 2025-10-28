@@ -52,6 +52,9 @@ Our team has always been fascinated by fighting games and esports. We wanted to 
 #### Challenges  
 The biggest challenge was connecting the backend to the frontend — handling routes, fetch requests, and ensuring smooth data flow. Once we solved these issues, the app came together into a complete, functional product.
 
+#### Project
+[Click Here!](https://github.com/Cristofferb7/ai_fighter_matchup)
+
 ---
 
 ### UCF Robotics — VEX U Daydream Team 7  
