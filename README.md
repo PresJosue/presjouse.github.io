@@ -72,8 +72,7 @@ The biggest challenge was connecting the backend to the frontend — handling ro
 This experience strengthened my skills in embedded programming, robotics systems, and collaborative development — combining mechanical precision with programming logic.
 
 ### Project
-
-
+![Robot Image](IMG_2703.jpg)
 [Click Here!](https://github.com/Daydream-Robotics)
 
 ---
