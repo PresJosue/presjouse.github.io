@@ -45,7 +45,7 @@ AI-powered mobile app that assists in early skin cancer screening using computer
 **Stack:** React Native, Expo, TypeScript, HuggingFace, Google Gemini API  
 
 #### Inspiration  
-Skin cancer is the most commonly diagnosed cancer worldwide, yet access to dermatologists can take weeks or months. We built Noma to provide an accessible tool for early screening using AI directly from a smartphone.
+Skin cancer is the most commonly diagnosed cancer worldwide, yet access to dermatologists can take weeks or months. We built Noma to provide an accessible tool for early AI screening directly on a smartphone.
 
 #### What I Built  
 - Cross-platform mobile app (iOS, Android, Web) using React Native + Expo  
@@ -70,8 +70,10 @@ Delivered a fully functional prototype capable of analyzing skin lesions with ~8
 [GitHub](https://github.com/YOUR_REPO_LINK)  
 [Devpost](https://devpost.com/software/noma-t0ysng)
 
-![Noma Demo](https://github.com/user-attachments/assets/b189e645-be59-48d5-98ce-87a56e8b2f5e)
+#### Demo  
+[Watch on YouTube](https://www.youtube.com/watch?v=j9tdmJ-CSHw)
 
+[![Watch the Demo!](https://img.youtube.com/vi/j9tdmJ-CSHw/0.jpg)](https://www.youtube.com/watch?v=j9tdmJ-CSHw)
 ---
 
 ### AI Fighter Matchup  
