@@ -35,45 +35,95 @@ I enjoy building projects that merge technology, creativity, and problem-solving
 
 ## Featured Projects
 
-### AI Fighter Matchup  
-**Event:** KnightHacks Hackathon  
-**Team Size:** 4  
-**Stack:** React, FastAPI, Google Gemini API, Python 
+---
+
+### Noma — AI Skin Cancer Detection App  
+AI-powered mobile app that assists in early skin cancer screening using computer vision (~83% accuracy).  
+
+**Event:** SwampHacks XI  
+**Team Size:** 4
+**Stack:** React Native, Expo, TypeScript, HuggingFace, Google Gemini API  
 
 #### Inspiration  
-Our team has always been fascinated by fighting games and esports. We wanted to connect AI with competitive gaming, so we built a tool that helps players analyze matchups strategically rather than relying on random tier lists.
+Skin cancer is the most commonly diagnosed cancer worldwide, yet access to dermatologists can take weeks or months. We built Noma to provide an accessible tool for early screening using AI directly from a smartphone.
 
-#### What We Learned  
-- Connecting a React frontend with a FastAPI backend  
-- Integrating APIs like Google Gemini  
-- Structuring a full-stack project and managing teamwork efficiently  
-- Using Git and GitHub for version control during a hackathon  
+#### What I Built  
+- Cross-platform mobile app (iOS, Android, Web) using React Native + Expo  
+- Real-time camera system for capturing and analyzing skin lesions  
+- AI pipeline using HuggingFace for image classification (7 diagnostic categories)  
+- Integrated Google Gemini for natural-language explanations of results  
+- Interactive health dashboard with HRV visualization and personalized metrics  
+
+#### What I Learned  
+- Deploying AI models into real-world mobile applications  
+- Handling real-time image processing and API latency  
+- Designing intuitive health-focused user interfaces  
+- Managing global state using React Context in a scalable way  
 
 #### Challenges  
-The biggest challenge was connecting the backend to the frontend — handling routes, fetch requests, and ensuring smooth data flow. Once we solved these issues, the app came together into a complete, functional product.
+Integrating real-time camera input with AI inference while maintaining performance was a major challenge. We optimized image handling, asynchronous requests, and UI feedback to ensure a smooth user experience.
 
-#### Project
+#### Outcome  
+Delivered a fully functional prototype capable of analyzing skin lesions with ~83% accuracy. The app provides color-coded severity indicators and confidence scores, making results clear and actionable for users.
+
+#### Project  
+[GitHub](https://github.com/YOUR_REPO_LINK)  
+[Devpost](https://devpost.com/software/noma-t0ysng)
+
+![Noma Demo](https://github.com/user-attachments/assets/b189e645-be59-48d5-98ce-87a56e8b2f5e)
+
+---
+
+### AI Fighter Matchup  
+AI-powered matchup analysis tool for competitive fighting games.  
+
+**Event:** KnightHacks Hackathon  
+**Team Size:** 4  
+**Stack:** React, FastAPI, Google Gemini API, Python  
+
+#### What I Built  
+- Full-stack web app for analyzing fighting game matchups  
+- AI-generated strategy insights instead of static tier lists  
+- REST API backend using FastAPI connected to a React frontend  
+
+#### What I Learned  
+- Full-stack integration (React + FastAPI)  
+- API design and data flow between frontend/backend  
+- Team collaboration under hackathon constraints  
+
+#### Challenges  
+Coordinating frontend-backend communication and handling API responses efficiently during a short development window.
+
+#### Project  
 [Click Here!](https://github.com/Cristofferb7/ai_fighter_matchup)
 
 ---
 
 ### UCF Robotics — VEX U Daydream Team 7  
+Competitive robotics programming for VEX U systems.  
+
 **Role:** Programmer  
 **Team Size:** 6+  
-**Stack:** C++, GitHub  
+**Stack:** C++, Embedded Systems, GitHub  
 
-#### What I Did  
-- Developed control and autonomous code for two VEX U competition robots using C++  
-- Programmed driver control schemes based on driver preferences  
-- Built autonomous routines that allowed the robot to perform tasks independently  
-- Collaborated with a team of six or more members using GitHub for version control and coordination  
+#### What I Built  
+- Autonomous routines for competition robots  
+- Driver control systems tailored to user preferences  
+- Real-time control logic for mechanical systems  
+
+#### What I Learned  
+- Embedded systems programming in C++  
+- Translating physical systems into software logic  
+- Team-based engineering and version control workflows  
 
 #### Outcome  
-This experience strengthened my skills in embedded programming, robotics systems, and collaborative development — combining mechanical precision with programming logic.
+Developed reliable autonomous and driver control systems used in competition, strengthening real-world robotics and systems engineering skills.
 
-### Project
-![Robot Image](IMG_2703.jpg)
+#### Project  
+![Robot Image](IMG_2703.jpg)  
 [Click Here!](https://github.com/Daydream-Robotics)
+
+---
 
 ---
 
